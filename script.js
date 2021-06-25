@@ -34,7 +34,7 @@ let addTask = function(event) {
 let completeTask = function() {
     let listItem = this.parentNode;
     let deleteBtn = document.createElement('button');
-    deleteBtn.innerText = 'Delete';
+    deleteBtn.innerText = 'Remove Task';
     deleteBtn.className = 'delete';
     listItem.appendChild(deleteBtn);
 
