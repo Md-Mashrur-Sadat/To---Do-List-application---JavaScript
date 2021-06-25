@@ -1,8 +1,6 @@
 
 
-- [How to run](#how-to-run)
 
-<!-- HOW TO RUN -->
 
 ## How to run
 
